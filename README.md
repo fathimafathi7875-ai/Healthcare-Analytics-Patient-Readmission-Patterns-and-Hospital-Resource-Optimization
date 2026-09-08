@@ -1,8 +1,6 @@
-**Healthcare data analysis:patient readmission pattern and hospital resourse optimization.**
+**Healthcare data analysis:patient readmission pattern and hospital resourse optimization.
 
-🏥 Healthcare Data Analysis: Patient Readmission Patterns and Resource Optimization
-📌 Project Overview
-
+**
 This project focuses on analyzing healthcare data to understand patient readmission patterns and support hospital resource optimization.
 
 The dataset contains information about patients, hospital beds, wards, doctors, diseases, waiting times, length of stay, discharge status, and readmission status.
